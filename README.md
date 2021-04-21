@@ -1,1 +1,1 @@
-This is nautjay's first git project
+This is nautjay's first git project. This is how it contunues.
